@@ -10,14 +10,13 @@ In the fabrication/GERBERS folder you find the zip-archive which can be uploaded
 
 ## Specification for the 1 inch x 1 inch Plated Through Hole (PTH) Board
 
-This board is fabricated as 3x4-boards, and can easily be divided by simply breaking them apart to individual 1" x 1" boards.
+This board is fabricated as 3x4-boards (i.e. 12 in one piece), and can easily be divided by simply breaking them apart to individual 1" x 1" boards.
 
 | parameter | imperial | metric |
 | -----------|-------|------|
 | board material | FR4 | FR4 |
 | number of PTH | 81 | 81 |
 | number of rows | 9 | 9 |
-| number of columns| 9 | 9 |
 | hole diameter | 39.4 mil | 1.0 mm |
 | hole grid | 100 mil (0.1") | 0.254 mm |
 | hole plating | gold (ENIG) | gold (ENIG) |
