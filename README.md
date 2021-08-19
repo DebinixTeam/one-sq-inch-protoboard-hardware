@@ -8,7 +8,7 @@ This is 1" x 1" `prototyping solderable board`, for breadboard prototyping.
 
 # Specification for the 1 inch x 1 inch Plated Through Hole (PTH) Board
 
-This board is fabricated as 3x4-boards (i.e. 12 in one piece), and can easily be divided by simply breaking them apart to individual 1" x 1" boards.
+This board is fabricated as panels with 3x4-boards (i.e. 12 in one piece), and can easily be divided by simply breaking them apart to individual 1" x 1" boards.
 
 | parameter | imperial | metric |
 | -----------|-------|------|
@@ -18,9 +18,9 @@ This board is fabricated as 3x4-boards (i.e. 12 in one piece), and can easily be
 | hole diameter | 39.4 mil | 1.0 mm |
 | hole grid | 100 mil (0.1") | 0.254 mm |
 | hole plating | gold (ENIG) | gold (ENIG) |
-| cupper on both side | yes | yes |
+| copper on both side | yes | yes |
 | PTH interconnected | no | no |
-| cupper layer thickness | 35 um | 35 um |
+| copper layer thickness | 35 um | 35 um |
 | board color | black | black |
 | board text | white | white |
 | board weight | 0.05 oz | 14 gram |
