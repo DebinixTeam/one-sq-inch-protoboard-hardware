@@ -4,8 +4,6 @@
 
 This is 1" x 1" `prototyping solderable board`, for breadboard prototyping.
 
-
-
 # Specification for the 1 inch x 1 inch Plated Through Hole (PTH) Board
 
 This board is fabricated as panels with 3x4-boards (i.e. 12 in one piece), and can easily be divided by simply breaking them apart to individual 1" x 1" boards.
@@ -13,6 +11,7 @@ This board is fabricated as panels with 3x4-boards (i.e. 12 in one piece), and c
 | parameter | imperial | metric |
 | -----------|-------|------|
 | board material | FR4 | FR4 |
+| board thickness | 39.4 mil | 1.0 mm |
 | number of PTH | 81 | 81 |
 | number of rows | 9 | 9 |
 | hole diameter | 39.4 mil | 1.0 mm |
@@ -20,10 +19,10 @@ This board is fabricated as panels with 3x4-boards (i.e. 12 in one piece), and c
 | hole plating | gold (ENIG) | gold (ENIG) |
 | copper on both side | yes | yes |
 | PTH interconnected | no | no |
-| copper layer thickness | 35 um | 35 um |
+| copper layer thickness | 1.4 mil | 35 um |
 | board color | black | black |
 | board text | white | white |
-| board weight | 0.05 oz | 14 gram |
+| panel board weight | 0.56 oz | 16 gram |
 
 # Open Source
 
@@ -45,10 +44,12 @@ Thank you for your support.
 
 # Who are Debinix Team?
 
+We are a small team of designers/engineers who are passionate about what we do. Our work is done under the brand name `Triata Group`.
+
 We do custom projects around microcontrollers, sensors, and short-distance wireless communication for harsh operation e.g. in the marine environment.
 There is always a delicate balance between, cost, quality, and features in what we make. We strive to live after Albert Einstein's famous quote; `“Everything should be made as simple as possible, but not simpler.”`
 
-If you share above philosophy, don’t hesitate to contact us for a discussion on what we can do to realize your ideas!
+If you get interested in one of our creations, and maybe share above philosophy, don’t hesitate to contact any of us for a discussion on what we can do to realize your ideas!
 
 # License
 
