@@ -24,33 +24,29 @@ This board is fabricated as panels with 3x4-boards (i.e. 12 in one piece), and c
 | board text | white | white |
 | panel board weight | 0.56 oz | 16 gram |
 
-# Open Source
+# Fabrication
 
-This project is open source, so in this repository you will find KiCad PCB design files and gerbers for this board.
+This project is open-source, so that you will find this KiCad PCB board design files and gerbers in this repository. Therefore, feel free to modify these files to fit your specific need.
 
-In the fabrication/GERBERS folder you find the zip-archive which directly can be uploaded to a prototype service such as [OSHPark](https://oshpark.com). However the original board available on `Tindie` has been fabricated to a high quality standard. You may also modify the design with help of the KiCad-files to fit your specific need, and that's ok with us!
+You can directly upload files in the fabrication/GERBERS folder to a prototype service, such as [OSHPark](https://oshpark.com). However, the original fabricated board available on `Tindie` has a high-quality standard. 
 
-If you appreciate our work and use any files, why not buy us a cup of coffee?
+If you appreciate our work and use any files, why not buy me a cup of coffee?
 
 [![Buy me a cup of coffee](./images/bmc-button-small.png)](https://buymeacoffee.com/debinixteam/)
 
-We love designing, making and releasing our projects as open source. We do it because we believe it’s important to share knowledge and give back to the community as many have done before us. It helps us all learn and grow. However, all these open source projects are done in our free time, i.e. off work.
+I love designing, making, and releasing our projects as open source. I do it because I believe it is essential to share knowledge and give back to the community, as many have done before us. In addition, it helps us all learn and grow. 
 
-That said, time, and effort have gone into designing and releasing these files, so please consider supporting us by buying one of our creations in our `Tindie shop`, and they are really cheap!
+That said, time and effort have gone into designing and releasing these files, so please consider supporting us by buying one of our creations in our `Tindie shop`, and they are cheap!
 
 [![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
 
-Thank you for your support.
+I appreciate your support.
 
 # Who are Debinix Team?
 
-We are a small team of designers/engineers who are passionate about what we do. Our work is done under the brand name `Triata Group`.
+I'm part of a small team of designers and engineers who are passionate about what we do. `Triata Group` is the brand name for the group.
 
-We do custom projects around microcontrollers, sensors, and short-distance wireless communication for harsh operation e.g. in the marine environment.
-There is always a delicate balance between, cost, quality, and features in what we make. We strive to live after Albert Einstein's famous quote; `“Everything should be made as simple as possible, but not simpler.”`
+We engage in custom projects based on microcontrollers, sensors, and short-distance wireless communication for harsh operation, e.g., in the marine environment.
+There is always a delicate balance between cost, quality, and features in what we make. We strive to live after Albert Einstein's famous quote; `"Everything should be made as simple as possible, but not simpler."`
 
-If you get interested in one of our creations, and maybe share above philosophy, don’t hesitate to contact any of us for a discussion on what we can do to realize your ideas!
-
-# License
-
-These files are released under the [creative commons license](LICENSE.md).
+If you get interested in one of our creations, and maybe share the above philosophy, don't hesitate to contact any of us to discuss what we can do to realize your ideas!

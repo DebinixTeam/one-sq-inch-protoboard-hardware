@@ -9,8 +9,8 @@ Date "2019-08-29"
 Rev "1.0"
 Comp ""
 Comment1 ""
-Comment2 "Creativecommons.org/licenses/by/4.0/"
-Comment3 "License: CC BY 4.0"
+Comment2 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment3 "License: CC BY-SA 4.0"
 Comment4 "Author: Debinix Team"
 $EndDescr
 $Comp
